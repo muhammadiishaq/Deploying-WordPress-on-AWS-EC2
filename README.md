@@ -7,6 +7,7 @@ The goal of this project is to understand how a web application is deployed, con
 
 ## 🌐 Live Demo
 🔗 https://wp.mdishaq.site
+![Live Demo](Project-Screenshot/web2.png)
 
 ---
 
@@ -31,6 +32,7 @@ The goal of this project is to understand how a web application is deployed, con
 - **Application:** WordPress (eCommerce Theme)
 - **Domain & DNS:** Cloudflare
 - **SSL:** Let’s Encrypt (Certbot)
+![Architecture Overview](Project-Screenshot/Architecture.gif)
 
 ---
 
@@ -127,7 +129,9 @@ The goal of this project is to understand how a web application is deployed, con
 
 **Ishaq**  
 Aspiring DevOps Engineer  
-GitHub: https://github.com/your-username  
+GitHub: https://github.com/muhammadiishaq
+Linkedin: https://www.linkedin.com/in/mdiishaq/
+Website: https://mdishaq.site
 
 ---
 

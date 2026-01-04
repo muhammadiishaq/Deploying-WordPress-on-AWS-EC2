@@ -6,6 +6,7 @@ This project demonstrates a beginner-friendly deployment of a WordPress eCommerc
 
 ## 🌐 Live Demo
 [https://wp.mdishaq.site](https://wp.mdishaq.site)
+![Live Demo](Project-Screenshot/web2.png)
 
 ---
 
@@ -100,8 +101,8 @@ This project demonstrates a beginner-friendly deployment of a WordPress eCommerc
 ---
 
 ## 🔧 Author
-**Ishaq**  
-Cloud, WordPress, and DevOps enthusiast  
+**Muhammad Ishaq**  
+Cloud and DevOps enthusiast  
 
 ---
 
